@@ -72,3 +72,15 @@ This dashboard enables decision-makers to:
 - Customer Analytics
 - Sales Analytics
 - Interactive Dashboard Design
+  
+# 📷 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](dashboard-overview.jpg)
+
+---
+
+## Sales Trend Analysis
+
+![Sales Trend](sales-trend-analysis.jpg)
